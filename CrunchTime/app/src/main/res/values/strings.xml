@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Crunch Time</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="num_minutes">Enter the number of minutes:</string>
+    <string name="num_reps">Enter the number of reps:</string>
+    <string name="reps">reps</string>
+    <string name="minutes">minutes</string>
+</resources>
