@@ -8,7 +8,7 @@ Zachary Green ([zach.green@berkeley.edu](mailto:zach.green@berkeley.edu))
 
 ## Demo Video
 
-See [your demo video title here] (https://link_to_your_video)
+See [CrunchTime Walkthrough] (https://www.youtube.com/watch?v=HrTi2gRMBYI)
 
 ## Screenshots
 
